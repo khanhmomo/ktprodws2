@@ -16,6 +16,7 @@ import {
 
 import { Button } from "@/components/ui/button"
 
+
 import {
   Table,
   TableBody,
@@ -119,6 +120,7 @@ export function DataTable<TData, TValue>({
         >
           Next
         </Button>
+        
       </div>
     </div>
     

@@ -17,7 +17,7 @@ const pathnameMap = {
 };
 
 const defaultMap = {
-    title: "Home",
+    title: `Welcome back!`,
     description: "Monitor all of your projects and tasks"
 }
 
